@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-        <Text text="GitHub remote"></Text>
+            <Text text="Primeiro Git no GitHub"></Text>
         </content>
     </Page>
 </mvc:View>
